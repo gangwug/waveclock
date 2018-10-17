@@ -1,0 +1,24 @@
+Version 1.0-1
+=============
+o   The option 'reflect' in waveclock() replaced by the new option 'extend'
+o   The option 'jpg' in waveclock() replaced by the new option 'png'
+o   New options for waveclock() added: 'mask.coi', 'color.palette', 'mode.col', 'mode.lty', 'mode.lwd'
+o   New fields 'amp' and 'per' included in the output from waveclock()
+o   New data added: 'U2OS'
+o   New function added: 'my.crc'
+o   Modifications made to the documentation for waveclock()
+
+Version 1.0-2
+=============
+o   New field 'phase' included in the output from waveclock()
+
+Version 1.0-3
+=============
+o   Contact details updated
+o   Recompiled under R 2.7.0 using Rtools28 from http://www.murdoch-sutherland.com/Rtools/
+
+Version 1.0-4
+==============
+o   Contact details updated
+o   Recompiled under R 2.10.0 using Rtools210 from http://www.murdoch-sutherland.com/Rtools/
+                     
