@@ -4,6 +4,8 @@ This repository contains a copy of waveclock package maintained by Dr. Tom S. Pr
 waveclock is an R function designed to assess the period and amplitude of cycling cell luminescence data. The function reconstructs the modal frequencies from a continuous wavelet decomposition of the luminescence data using the 'crazy climbers'algorithm described in "Practical Time-Frequency Analysis: Gabor and Wavelet Transforms with an Implementation in S", by Rene Carmona, Wen L. Hwang and Bruno Torresani, Academic Press, 1998.
 
 ## Usage
+
+### Install the package
 ```r
 # install 'Rwave' package (if 'Rwave' is not installed yet)
 install.packages("Rwave")
@@ -15,6 +17,9 @@ install.packages("devtools")
 devtools::install_github('gangwug/waveclock')
 
 ```
+### Run the code
+
+Please follow the code in the 'demo' folder of this repository.
 
 ## For more information
 Price T.S., Baggs J.E., Curtis A.M., Fitzgerald G.A., Hogenesch J.B., WAVECLOCK: wavelet analysis of circadian oscillation.Bioinformatics. 2008, 24(23):2794-5. 
