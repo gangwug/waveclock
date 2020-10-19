@@ -19,7 +19,7 @@ devtools::install_github('gangwug/waveclock')
 ```
 ### Run the code
 
-Please follow the code in the 'demo' folder of this repository.
+Please follow the demo script in the [runWaveClock](https://github.com/gangwug/runWaveClock) repository.
 
 ## For more information
 Price T.S., Baggs J.E., Curtis A.M., Fitzgerald G.A., Hogenesch J.B., WAVECLOCK: wavelet analysis of circadian oscillation.Bioinformatics. 2008, 24(23):2794-5. 
