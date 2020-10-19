@@ -17,7 +17,7 @@ install.packages("devtools")
 devtools::install_github('gangwug/waveclock')
 
 ```
-### Run the code
+### Run waveclock
 
 Please follow the demo script in the [runWaveClock](https://github.com/gangwug/runWaveClock) repository.
 
